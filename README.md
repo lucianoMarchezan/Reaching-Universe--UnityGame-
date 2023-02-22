@@ -4,6 +4,6 @@
 ## Structure:
 
 * Assets - Sprites, Audios, Scripts e Imagens used in the game
-* Reaching Universe (windows) - Windows version (Extract and click ru.exe to play);
-* Reaching Universe (linux)
-* Reaching Universe (mac_os)
+* [Reaching Universe (windows)](https://github.com/lucianoMarchezan/Reaching-Universe--UnityGame-/blob/main/Reaching%20Universe%20(windows).zip)  - Windows version (Extract and click ru.exe to play);
+* [Reaching Universe (linux)](https://github.com/lucianoMarchezan/Reaching-Universe--UnityGame-/blob/main/Reaching%20Universe%20(linux).zip)
+* [Reaching Universe (mac_os)](https://github.com/lucianoMarchezan/Reaching-Universe--UnityGame-/blob/main/Reaching%20Universe%20(mac_os).zip)
