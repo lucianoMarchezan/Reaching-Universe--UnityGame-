@@ -1,5 +1,6 @@
 # Reaching Universe (UnityGame)
  [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+ 
  This is a repository for a game developed using Unity as part of the game development course at the Universidade Federal do Pampa.
 
 ## Structure:
